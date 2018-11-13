@@ -1,3 +1,3 @@
 # gittest2
 branch:dev
-for conflict(dev)
+for conflict(dev2)
